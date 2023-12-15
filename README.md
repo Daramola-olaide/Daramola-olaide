@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Daramola-olaide
 - 👀 I’m interested in Data Analyst Role
-- 🌱 I’m currently learning Microsoft Excel, Power BI, SQL & Python 
+- 🌱 I’m proficient with Microsoft Excel, Power BI, SQL
+- I'm currently learning python 
 - 💞️ I’m looking to collaborate on Data Analysis Project
 - 📫 You can reach me via my twitter www.twitter.com/kehinde82937626
 
