@@ -1,11 +1,9 @@
-- 👋 Hi, I’m @Daramola-olaide
-- 👀 I’m interested in Data Analyst Role
-- 🌱 I’m proficient with Microsoft Excel, Power BI, SQL
-- I'm currently learning python 
-- 💞️ I’m looking to collaborate on Data Analysis Project
-- 📫 You can reach me via my twitter www.twitter.com/kehinde82937626
+ Hi 👋 
+I am a Data Analyst & Healthcare Analyst 
 
-<!---
-Daramola-olaide/Daramola-olaide is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ 🧑‍💻 Power BI Trainer with UNDP (United Nation Development Project) 
+  SDG AI Lab - Turkey (Instabul)
+
+  🧑‍🔧 Proficient in Advanced Excel, Power BI, Python, SQL, dbt, AWS
+
+  Feel free to go through my portfolio and let's talk if you have a project for me
